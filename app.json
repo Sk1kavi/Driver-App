@@ -16,7 +16,8 @@
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "edgeToEdgeEnabled": true
+      "edgeToEdgeEnabled": true,
+      "package": "com.sk1kavi.driverapp"
     },
     "web": {
       "bundler": "metro",
@@ -44,9 +45,7 @@
         "projectId": "04bc02ed-614c-48ff-890c-bbcace872d8b"
       }
     },
-    "runtimeVersion": {
-      "policy": "appVersion"
-    },
+    "runtimeVersion": "1.0.0",
     "updates": {
       "url": "https://u.expo.dev/04bc02ed-614c-48ff-890c-bbcace872d8b"
     }
